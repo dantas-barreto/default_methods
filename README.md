@@ -1,1 +1,1 @@
-# default_methods
+# Default Methods (métodos padrão)
